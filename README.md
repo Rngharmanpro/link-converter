@@ -18,4 +18,4 @@ A web service that helps others to convert links between mobile and web applicat
 - ./gradlew test
 
 ## Postman Collection
-- https://documenter.getpostman.com/view/2555404/TzJybFCC
+- https://documenter.getpostman.com/view/2555404/TzJybFC
